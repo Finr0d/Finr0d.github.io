@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hi</h1>
+<p>I'm testing out different web hosting options, this might work for my style of websit, but it will largely depend on how everything fits together.</p>
+</body>
+</html>
